@@ -19,6 +19,8 @@ The code written captures the details about the ticker name, total daily volume,
         If tickerIndex + 1 = ticker And tickerIndex = ticker Then
     
                 tickerEndingPrice = tickerIndex
+           
+            End If
 
 The Tickerindex variable being used also contributes in identifying the stock position for calculating the total daily volume as well that is progressively summed for each stock. 
 
